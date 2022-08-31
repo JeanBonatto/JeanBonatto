@@ -1,14 +1,11 @@
 <h1>Olá, me chamo Jean Bonatto! :wave:</h1>
 
 
-<p>Sou graduado em Administração de Empresas e atualmente estou cursando Ciência de Dados pela DNC Group e PowerBI pela DataScienciAcademy, bem como, aprimorando Python pela Udemy.
+<p>Sou graduado em Administração de Empresas e atualmente estou concluindo Ciência de Dados pela DNC Group e PowerBI pela DataScienciAcademy. E recentemente, iniciei a formação em Engenharia de Software pela UniCesumar.
 
-Sempre tive muita afinidade por tecnologia e pretendo continuar me aperfeiçoando com uma futura graduação/pós em Eng. Software ou Ciência de Dados. 
-Tenho conhecimentos em Estatística Básica( Descritiva e Inferêncial), Excel, Python( bibliotecas como Pandas, Numpy, Seaborn, Pyplot e Matplotlib), SQL Server, NoSql (MongoDB) e GitHub, além de metodologias ágeis como SCRUM. 
+Sempre tive muita afinidade por tecnologia e amo matemática, venho traçando minha carreira com o intuito de ajudar as pessoas através da tecnologia e de seus próprios dados.
 
-Competências pessoais que gostaria de destacar: 
-Proatividade, excelente relacionamento interpessoal, facilidade em aprender(autodidata), organização e dedicação.</p>
-
+Atualmente atuo em setor de análise documental mas estou construindo novos conhecimentos em Estatística Básica( Descritiva e Inferêncial), Excel, Python( bibliotecas como Pandas, Numpy, Seaborn, Pyplot, Matplotlib, Scikit-learn e PySpark),  SQL Server, NoSql (MongoDB) e GitHub, além  de metodologias ágeis.</p>
 
 
 
