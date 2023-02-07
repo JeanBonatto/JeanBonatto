@@ -1,7 +1,7 @@
 <h1>Olá, me chamo Jean Bonatto! :wave:</h1>
 
 
-<p>Sou graduado em Administração de Empresas e atualmente estou concluindo Ciência de Dados pela DNC Group e PowerBI pela DataScienciAcademy. E recentemente, iniciei a formação em Engenharia de Software pela UniCesumar.
+<p>Sou graduado em Administração de Empresas e pós graduado em Ciência de Dados pela DNC Group e PowerBI pela DataScienciAcademy. E recentemente, iniciei a formação em Engenharia de Software pela UniCesumar.
 
 Sempre tive muita afinidade por tecnologia e amo matemática, venho traçando minha carreira com o intuito de ajudar as pessoas através da tecnologia e de seus próprios dados.
 
