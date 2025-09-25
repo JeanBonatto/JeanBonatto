@@ -1,35 +1,84 @@
-<h1>Olá, me chamo Jean Bonatto! :wave:</h1>
+# 👨‍💻 Jean Carlo Balem Bonatto
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeanbonatto/)  
+[📧 E-mail](mailto:jb.bonatto@outlook.com) | 📍 Brasil  
 
-<p>Sou graduado em Administração de Empresas e pós graduado em Ciência de Dados pela DNC Group e PowerBI pela DataScienciAcademy. E recentemente, iniciei a formação em Engenharia de Software pela UniCesumar.
+---
 
-Sempre tive muita afinidade por tecnologia e amo matemática, venho traçando minha carreira com o intuito de ajudar as pessoas através da tecnologia e de seus próprios dados.
+## 🚀 Sobre mim  
+Sou **Desenvolvedor Backend** com experiência em **Python (FastAPI)**, **APIs RESTful**, **bancos de dados relacionais e distribuídos**, além de integrações corporativas.  
+Tenho vivência em **ambientes ágeis (Scrum)**, **CI/CD**, **TDD**, **clean code** e uso de **ferramentas de BI** e **Agentes de IA** para aumentar a produtividade.  
 
-Atualmente atuo em setor de análise documental mas estou construindo novos conhecimentos em Estatística Básica( Descritiva e Inferêncial), Excel, Python( bibliotecas como Pandas, Numpy, Seaborn, Pyplot, Matplotlib, Scikit-learn e PySpark),  SQL Server, NoSql (MongoDB) e GitHub, além  de metodologias ágeis.</p>
+💡 Apaixonado por tecnologia, dados e automação, busco sempre criar soluções **escaláveis** e **eficientes**, entregando valor real para os projetos.  
 
+---
 
+## 🛠️ Tecnologias & Ferramentas  
 
+- **Linguagens & Frameworks:** Python (FastAPI, Pandas, Streamlit), SQL, VBA  
+- **APIs & Integrações:** RESTful, autenticação MTLS, integrações externas  
+- **Banco de Dados:** MySQL, PostgreSQL, Denodo, DataBricks  
+- **Versionamento & Deploy:** Git, GitHub, GitFlow, GitLab CI/CD, Linux  
+- **Business Intelligence & Data:** Power BI, ETL, EDA, Excel Avançado, Google Sheets  
+- **Metodologias Ágeis:** Scrum  
+- **Ferramentas:** Notion, Trello  
 
-<h2> :computer:Tecnologias e Ferramentas:</h2>
-																																
-<img src="https://img.icons8.com/fluency/48/000000/python.png" width="40" height="40"/> <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" /> <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/>
+---
 
-<img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png" width="40" height="40"/> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" width="40" height="40" />
+## 📚 Formação  
 
+🎓 **Bacharelado em Engenharia de Software** – Universidade Cessumar (Previsão 2026)  
+🎓 **Pós-graduação em Ciência de Dados e Machine Learning** – Escola DNC (2022)  
+🎓 **Bacharelado em Administração de Empresas** – UNOPAR (2020)  
 
+---
 
-<p>:books:Estou estudando: Data Science na DNC Group, Python na Udemy e PowerBI na Data Science Academy
+## 🏆 Certificações  
 
+- Python Básico ao Avançado – Udemy  
+- Python para Análise de Dados 3.0 – Data Science Academy  
+- Big Data Fundamentos 3.0 – Data Science Academy  
+- Power BI – Data Science Academy  
+- Python – Let’s Code from Ada  
 
+---
 
+## 💼 Experiência  
 
-Você pode falar comigo pelo e-mail ou pelo Linkedin e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. 
-  
-  
-<img src="https://img.icons8.com/fluency/48/000000/smiling.png" width="18" height="18"/>
-<h2>
-<div>
-	<a href = "mailto:jb.bonatto@outlook.com" ><img src="https://img.icons8.com/color/48/000000/ms-outlook.png" width="30" height="30" target="blank"></a>
-	<a href="https://www.linkedin.com/in/jeanbonatto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
-</h2>
-  
+### 💻 Desenvolvedor Backend | Sicredi (11/2023 – Atual)  
+- Desenvolvimento e documentação de **APIs RESTful** com **FastAPI**  
+- Integração com **APIs internas e externas** aplicando autenticação segura (MTLS)  
+- Modelagem e manutenção de **bancos de dados MySQL** e distribuídos (Denodo, DataBricks)  
+- Configuração de **pipelines CI/CD com GitLab**  
+- Criação de **testes automatizados** com TDD  
+- Revisão de código e definição de boas práticas  
+
+### 📊 Analista de BI | Atados - Associação Gibi Esportes (06/2023 – 12/2024)  
+- Dashboards e relatórios em **Power BI**  
+- Aumento de **32% em alunos ativos** e redução de **25% na evasão**  
+
+### 🤖 Cientista de Dados | Escola DNC / Ambev (12/2021 – 12/2022)  
+- Predição de produção industrial com **Machine Learning**  
+- Redução de **10% em horas extras** na operação  
+- Deploy de aplicações com **Streamlit**  
+
+---
+
+## 🌎 Idiomas  
+
+- 🇪🇸 Espanhol: Avançado  
+- 🇬🇧 Inglês: Intermediário  
+
+---
+
+## 📌 Objetivo no GitHub  
+
+Aqui você vai encontrar projetos voltados para:  
+- **APIs com Python (FastAPI)**  
+- **Automação e integração de sistemas**  
+- **Business Intelligence e Data Science**  
+- **Boas práticas de desenvolvimento (SOLID, TDD, Clean Code)**  
+
+💡 Sempre aberto a **colaborações** e **novos desafios**!  
+
+---
