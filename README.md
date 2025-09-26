@@ -1,4 +1,4 @@
-# 👨‍💻 Jean Carlo Balem Bonatto
+# 👨‍💻 Jean Bonatto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeanbonatto/)  
 [📧 E-mail](mailto:jb.bonatto@outlook.com) | 📍 Brasil  
@@ -15,12 +15,12 @@ Tenho vivência em **ambientes ágeis (Scrum)**, **CI/CD**, **TDD**, **clean cod
 
 ## 🛠️ Tecnologias & Ferramentas  
 
-- **Linguagens & Frameworks:** Python (FastAPI, Pandas, Streamlit), SQL, VBA  
+- **Linguagens & Frameworks:** Python (FastAPI, Pandas, Streamlit), SQL, Docker, Pytest
 - **APIs & Integrações:** RESTful, autenticação MTLS, integrações externas  
 - **Banco de Dados:** MySQL, PostgreSQL, Denodo, DataBricks  
 - **Versionamento & Deploy:** Git, GitHub, GitFlow, GitLab CI/CD, Linux  
 - **Business Intelligence & Data:** Power BI, ETL, EDA, Excel Avançado, Google Sheets  
-- **Metodologias Ágeis:** Scrum  
+- **Metodologias Ágeis:** Scrum, Kanban
 - **Ferramentas:** Notion, Trello  
 
 ---
@@ -41,43 +41,6 @@ Tenho vivência em **ambientes ágeis (Scrum)**, **CI/CD**, **TDD**, **clean cod
 - Power BI – Data Science Academy  
 - Python – Let’s Code from Ada  
 
----
-
-## 💼 Experiência  
-
-### 💻 Desenvolvedor Backend | Sicredi (11/2023 – Atual)  
-- Desenvolvimento e documentação de **APIs RESTful** com **FastAPI**  
-- Integração com **APIs internas e externas** aplicando autenticação segura (MTLS)  
-- Modelagem e manutenção de **bancos de dados MySQL** e distribuídos (Denodo, DataBricks)  
-- Configuração de **pipelines CI/CD com GitLab**  
-- Criação de **testes automatizados** com TDD  
-- Revisão de código e definição de boas práticas  
-
-### 📊 Analista de BI | Atados - Associação Gibi Esportes (06/2023 – 12/2024)  
-- Dashboards e relatórios em **Power BI**  
-- Aumento de **32% em alunos ativos** e redução de **25% na evasão**  
-
-### 🤖 Cientista de Dados | Escola DNC / Ambev (12/2021 – 12/2022)  
-- Predição de produção industrial com **Machine Learning**  
-- Redução de **10% em horas extras** na operação  
-- Deploy de aplicações com **Streamlit**  
-
----
-
-## 🌎 Idiomas  
-
-- 🇪🇸 Espanhol: Avançado  
-- 🇬🇧 Inglês: Intermediário  
-
----
-
-## 📌 Objetivo no GitHub  
-
-Aqui você vai encontrar projetos voltados para:  
-- **APIs com Python (FastAPI)**  
-- **Automação e integração de sistemas**  
-- **Business Intelligence e Data Science**  
-- **Boas práticas de desenvolvimento (SOLID, TDD, Clean Code)**  
 
 💡 Sempre aberto a **colaborações** e **novos desafios**!  
 
